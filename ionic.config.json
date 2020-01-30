@@ -1,5 +1,8 @@
 {
   "name": "Instagram",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
